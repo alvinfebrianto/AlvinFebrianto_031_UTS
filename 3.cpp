@@ -5,8 +5,8 @@ using namespace std;
 int main() {
     char op;
     float num1, num2;
-
-	cout << "Enter any two number: ";
+	
+    cout << "Enter any two number: ";
     cin >> num1 >> num2; cout << endl;
     
     cout << "Enter the operator (+, -, *, /): ";
